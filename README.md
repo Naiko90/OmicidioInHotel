@@ -24,3 +24,11 @@ Someone is knocking on the door, we open the door...
 It's a hotel agent...
 
 "Good morning, I'm part of the hotel security staff. I wanted to inform you that because of the murder happened last night in one of the rooms, we are retaining all the customers until the arrival of the police for questioning. If you have any special needs, please ask to the manager of the Hall. Goodbye"
+
+## Instructions
+- Movements - Arrow keys
+- View orientation - Mouse
+- Inventory - 'I' key
+- Objectives - 'O' key
+- Objects interaction - Left button mouse
+- Disable active object - '1' key
